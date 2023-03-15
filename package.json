@@ -1,0 +1,42 @@
+{
+  "name": "toki-bot",
+  "version": "1.0.0",
+  "main": "binarybotblankey.js",
+  "scripts": {
+    "test": "node binarybotblankey.js",
+    "start": "node ",
+    "lint": "eslint "
+  },
+  "author": "Ike AKA Blackfoot AKA L0L_jk AKA Beast",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/saisonxiang/waifuworks"
+  },
+  "keywords": [
+    "toki",
+    "Unicode emoji",
+    "green technology",
+    "applied chaos theory",
+    "research and development"
+  ],
+  "bugs": {
+    "url": "https://github.com/saisonxiang/waifuworks/issues"
+  },
+  "homepage": "https://saisonxiang.github.io/toki/",
+  "description": "We takez ze womenz. We do not negotiate. We tippy tappy for sticky taffy.",
+  "dependencies": {
+    "@discordjs/builders": "^1.4.0",
+    "@discordjs/rest": "^1.5.0",
+    "axios": "^0.27.2",
+    "custom-id": "^1.2.0",
+    "discord-api-types": "^0.37.35",
+    "discord.js": "^14.7.1",
+    "dotenv": "^16.0.1"
+  },
+  "devDependencies": {
+    "eslint": "^8.35.0",
+    "eslint-config-google": "^0.14.0",
+    "typescript": "^4.8.2"
+  }
+}
