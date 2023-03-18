@@ -28,9 +28,11 @@ better spent supporting those that are forced from their homes and widowed by wa
 Added the current randomly generated lists of base 2, base 8, base 10, base 16, rogers, Magnusson code libraries. These radomized data lists can serve as test cases of the:
 -
 return Math.floor(Math.random() * (max - min + 1) + min);
+-
 function's true randomness when executed by an independently funded Macintosh running Ventura with node.js computational laboratory. These lists could be used to quickly generate strong passwords or serve as test cases for the measure of entropy within the:
 -
 return Math.floor(Math.random() * (max - min + 1) + min);
+-
 function's generation of a list.
 -
 
