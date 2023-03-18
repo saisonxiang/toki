@@ -26,10 +26,14 @@ better spent supporting those that are forced from their homes and widowed by wa
 *UPDATE 03/18/2023*
 
 Added the current randomly generated lists of base 2, base 8, base 10, base 16, rogers, Magnusson code libraries. These radomized data lists can serve as test cases of the:
+-
 return Math.floor(Math.random() * (max - min + 1) + min);
 function's true randomness when executed by an independently funded Macintosh running Ventura with node.js computational laboratory. These lists could be used to quickly generate strong passwords or serve as test cases for the measure of entropy within the:
+-
 return Math.floor(Math.random() * (max - min + 1) + min);
 function's generation of a list.
+-
 
 *SPONSOR INFORMATION*
+-
 Github provides a template for setting up a button but I've made quite a lot of effort to make it simple to donate to any of the multiple projects I work on. Now there is a website with PayPal button funtionality on all my repos as well as a sponsor button from Github's template to my spoof/joke streamer project that wishes to finance food, shelter, and equipment for independent female business owners which I found through "rigorous research" LUL of the topic. Seriously though, most of the female business owners are completely removed from my personal life and simply provide virtual co-working accompaniment for a bored open source writer that has nothing to sell but the funniest engineering publications of 2023. I'd like to build things that people enjoy utilizing as opposed to writing quickly deprecated code that makes people months from now waste days troubleshooting how to implement my builds to ghetto rig their problem statement. If you would like to support a genuine writer whom exercises heartfelt engagement in the improvement of the human condition via utilization of computational aided design and implementation you can support me at PayPal.me/tripbranch with any custom amount you like.
