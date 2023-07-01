@@ -22,7 +22,7 @@ const randombase2 = (min, max) => {
 
 const sendRandomMsgbase2 = () => {
 
- client.channels.cache.get('1032850508223889419').send(randomMsgbase2[randombase2(0, randomMsgbase2.length - 1)]);
+ client.channels.cache.get('DISCORDCHANNELID').send(randomMsgbase2[randombase2(0, randomMsgbase2.length - 1)]);
 }
 
 setInterval(function () { sendRandomMsgbase2() }, 1000 * 10 * 2 );
