@@ -30,7 +30,7 @@ setInterval(function () { sendRandomMsgbase2() }, 1000 * 10 * 2 );
 const randomMsgbase2 = ['0', '1']
 
 client.on('messageCreate', (Message) => {
-  if (Message.channel.id == "1032850508223889419") {
+  if (Message.channel.id == "DISCORDCHANNELID") {
       fs.appendFile('ヽ(ﾟ´Д)ﾉﾟbase2.txt', Message.content, (err) => {
           if (err) throw err;
       });
